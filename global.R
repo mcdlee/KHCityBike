@@ -1,6 +1,7 @@
 library(shiny)
 library(plyr)
 library(RColorBrewer)
+library(XML)
 
 # get List from KH city open Data
 url = "http://www.c-bike.com.tw/xml/stationlistopendata.aspx"
