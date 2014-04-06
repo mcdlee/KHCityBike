@@ -4,6 +4,8 @@ Inspired by [Ramnath Vaidyanathan](https://github.com/ramnathv)'s project [Bikes
 
 Data is from [Kaohsiung City Open Data project] (http://data.kaohsiung.gov.tw/Opendata/DetailList.aspx?CaseNo1=AH&CaseNo2=6&Lang=C)
 
+![Screenshot](screenshot.png)
+
 License
 -----------------------------------------
 
